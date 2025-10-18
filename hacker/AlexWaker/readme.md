@@ -18,7 +18,7 @@
 - [Agenavi <AI驱动的Navi助手>](https://github.com/AlexWaker/AgentHelperBorrowAndLend)
 
 - [PPT]()
-- [在线地址]()
+- [在线地址](https://agenavi.wal.app)
 
 ## 其他附加说明
 >> 项目已部署在Walrus主网：agenavi.wal.app
